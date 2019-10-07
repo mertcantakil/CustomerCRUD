@@ -1,0 +1,21 @@
+<table class="table table-striped">
+    <thead class="black white-text">
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Tax ID</th>             
+        <th>Phone</th>
+        <th>City</th>
+    </thead>
+
+    <tbody *ngFor="let pd of service.list">     <!--Tabloya databasedeki verilerin aktarıldığı kısım-->
+        <td>{{pd.Name}}</td>
+        <td>{{pd.Surname}}</td>
+        <td>{{pd.TaxId}}</td>
+        <td>{{pd.Phone}}</td>
+        <td>{{pd.Adress}}</td>
+        <td>
+            <i class="far fa-trash-alt fa-lg text-success" (click)="onDelete(pd.id)"></i>
+        </td>
+    </tbody>
+
+</table>

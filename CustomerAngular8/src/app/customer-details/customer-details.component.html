@@ -1,0 +1,12 @@
+<nav class="navbar bg-transparent">
+  <a class="navbar-brand" style="font-size: 30px; color: #212C50">Customer Detail CRUD Project</a>
+  <button class="btn btn-danger my-2 my-sm-0" (click)="onLogout()">Logout</button>
+</nav><hr> 
+<div class="row" style="padding-top: 50px;">
+  <div class="col-md-5">
+    <app-customer-detail></app-customer-detail>     <!--Yeni müsteri eklemek icin form componenti-->
+  </div>
+  <div class="col-md-7">
+    <app-customer-detail-list></app-customer-detail-list>   <!--Müsterilerin tabloda gösterildigi component-->
+  </div>
+</div>

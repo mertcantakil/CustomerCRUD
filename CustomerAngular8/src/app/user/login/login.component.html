@@ -1,0 +1,23 @@
+
+<!--Form controllerinde formdaki her değeri ngModel olarak al
+    onSubmit methoduyla formu gönder- (login.component.ts)
+    form geçersizse butonu aktifleştirme-->
+<img src="../assets/img/login-icon.png" class="mx-auto d-block" style="max-height: 150px; max-width: 150px;;">
+<p class="text-center text-white">Software Arge Administration</p>
+<form #form='ngForm' class='mb-4' autocomplete="off" (submit)="onSubmit(form)">
+    <div class="form-group">
+        <label >Username</label>
+        <input class="form-control" #UserName="ngModel"  name="UserName" [(ngModel)]="formModel.UserName" required>
+    </div>
+    <div class="form-group">
+        <label >Password</label>
+        <input type="password" class="form-control" #Password="ngModel"  name="Password" [(ngModel)]="formModel.Password" required minlength="4">
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-8 offset-md-2">
+          <button type="submit" class="btn btn-lg btn-block" [disabled]="form.invalid">
+            Login
+          </button>
+        </div>
+      </div>
+</form>

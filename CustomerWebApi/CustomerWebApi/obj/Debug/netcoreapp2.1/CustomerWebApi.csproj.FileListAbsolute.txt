@@ -1,0 +1,14 @@
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\bin\Debug\netcoreapp2.1\CustomerWebApi.deps.json
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\bin\Debug\netcoreapp2.1\CustomerWebApi.runtimeconfig.json
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\bin\Debug\netcoreapp2.1\CustomerWebApi.runtimeconfig.dev.json
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\bin\Debug\netcoreapp2.1\CustomerWebApi.dll
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.csprojAssemblyReference.cache
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.RazorAssemblyInfo.cache
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.RazorAssemblyInfo.cs
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.AssemblyInfoInputs.cache
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.AssemblyInfo.cs
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\bin\Debug\netcoreapp2.1\CustomerWebApi.pdb
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.dll
+C:\Users\Mertcan Takıl\source\repos\CustomerWebApi\CustomerWebApi\obj\Debug\netcoreapp2.1\CustomerWebApi.pdb
